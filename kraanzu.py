@@ -17,8 +17,8 @@ competitive_tree.add("⭐ [link=https://codeforces.com/profile/kraanzu]Codeforce
 competitive_tree.add("⭐ [link=https://leetcode.com/kraanzu/]Leetcode")
 
 about = """\
-I'm a sophomore pursuring bachelors in Computer Science.
-I love sport programming and tinkering with different techs.
+I'm a sophomore pursuing bachelors in Computer Science.
+I love sport programming and tinkering with different technologies.
 
 I'm currently making TUI applications with [link=https://www.python.org/]Python[/] and will expand this to other languages as well
 Oh and, I use Arch btw ;) \
