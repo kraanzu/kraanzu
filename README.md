@@ -1,9 +1,21 @@
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #008000; text-decoration-color: #008000">╔════════════════════ </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold">Hi there fellas!</span><span style="color: #008000; text-decoration-color: #008000"> ════════════════════╗</span> 🤓 Murli Tawari        
-<span style="color: #008000; text-decoration-color: #008000">║</span> I&#x27;m a sophomore pursuing bachelors in Computer Science.  <span style="color: #008000; text-decoration-color: #008000">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🐍 Python dev      
-<span style="color: #008000; text-decoration-color: #008000">║</span> I love sport programming and tinkering with different    <span style="color: #008000; text-decoration-color: #008000">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>🗒️ <a href="https://github.com/kraanzu/dooit">Dooit</a>        
-<span style="color: #008000; text-decoration-color: #008000">║</span> technologies.                                            <span style="color: #008000; text-decoration-color: #008000">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>💬 <a href="https://github.com/kraanzu/gupshup">Gupshup</a>     
-<span style="color: #008000; text-decoration-color: #008000">║</span> I&#x27;m currently making TUI applications with <a href="https://www.python.org/">Python</a> and    <span style="color: #008000; text-decoration-color: #008000">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┗━━ </span>💻 <a href="https://github.com/kraanzu/termtyper">Termtyper</a>   
-<span style="color: #008000; text-decoration-color: #008000">║</span> will expand this to other languages as well              <span style="color: #008000; text-decoration-color: #008000">║</span> <span style="color: #008080; text-decoration-color: #008080">┗━━ </span>🔧 Sport Programmer
-<span style="color: #008000; text-decoration-color: #008000">║</span> Oh and, I use Arch btw ;)                                <span style="color: #008000; text-decoration-color: #008000">║</span> <span style="color: #008080; text-decoration-color: #008080">    ┣━━ </span>⭐ <a href="https://codeforces.com/profile/kraanzu">Codeforces</a>  
-<span style="color: #008000; text-decoration-color: #008000">╚══════════════════════════════════════════════════════════╝</span> <span style="color: #008080; text-decoration-color: #008080">    ┗━━ </span>⭐ <a href="https://leetcode.com/kraanzu/">Leetcode</a>    
-</pre>
+## Who the heck am I? 
+
+
+I am Murli Tawari, from Kolkata, yet another average 21 y/o guy pursuing Bachelors in Computer Science :) \
+I'm currently living at the intersection between the industry and academia.\
+I mostly work on making [TUIs](https://en.wikipedia.org/wiki/Text-based_user_interface) with python, hacking on [WMs](https://en.wikipedia.org/wiki/Window_manager) and solving [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming) questions \
+Apart from that, I most play games or watch anime :D
+
+
+Btw, I use Arch
+
+
+## Wanna get in touch?
+
+Connect with me at:
+
+**Email:** kraanzu@gmail.com \
+**Twitter**: [@kraanzu](https://twitter.com/kraanzu) \
+**Mastodon**: [@kraanzu@fosstodon.org](https://fosstodon.org/web/@kraanzu) \
+**LeetCode**: [kraanzu](https://leetcode.com/kraanzu/) \
+**LinkedIn**: [kraanzu](https://www.linkedin.com/in/kraanzu/)
