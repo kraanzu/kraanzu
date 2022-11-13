@@ -7,7 +7,7 @@ I mostly work on making [TUIs](https://en.wikipedia.org/wiki/Text-based_user_int
 Apart from that, I most play games or watch anime :D
 
 
-Btw, I use Arch
+[Btw, I use Arch](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2F6ozib7wpxf651.png&f=1&nofb=1&ipt=993ebe40082fad7688aab018335c35eb31264f101669a73be3a4b0ef4352cffc&ipo=images)
 
 
 ## Wanna get in touch?
