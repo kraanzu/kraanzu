@@ -16,6 +16,6 @@ Connect with me at:
 
 **Email:** kraanzu@gmail.com \
 **Twitter**: [@kraanzu](https://twitter.com/kraanzu) \
-**Mastodon**: [@kraanzu@fosstodon.org](https://fosstodon.org/web/@kraanzu) \
+**Mastodon**: [@kraanzu@fosstodon.org](https://fosstodon.org/@kraanzu) \
 **LeetCode**: [kraanzu](https://leetcode.com/kraanzu/) \
 **LinkedIn**: [kraanzu](https://www.linkedin.com/in/kraanzu/)
